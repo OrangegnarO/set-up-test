@@ -7,8 +7,10 @@ body {
 	  margin: 0;
 	}
 }
-.logo {height: 50px;
-    width: 25px;
+.logo {height: 10px;
+    width: 5px;
+		padding: 250px 0;
+		margin: 30px;
 }
 
 h1	{ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
