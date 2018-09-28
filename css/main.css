@@ -8,6 +8,16 @@ body {
     width: 25px;
 }
 
+h1	{ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+font-size: 40px;
+font-style: normal;
+font-variant: normal;
+font-weight: 50;
+line-height: 26.4px;
+color: #FE5000;
+}
+
+
 h2 {font-family: Courier New, Arial, sans-serif;
 		font-size: 32px;
 		font-style: normal;
@@ -39,13 +49,4 @@ h3 {font-family: Palatino, Arial, sans-serif;
 .hero {
 	padding: 250px 0;
 	margin: 30px;
-}
-
-	h1	{ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
-font-size: 40px;
-font-style: normal;
-font-variant: normal;
-font-weight: 50;
-line-height: 26.4px;
-color: #FE5000;
 }
