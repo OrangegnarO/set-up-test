@@ -1,17 +1,21 @@
 body {
-	body {
 	  font-family: 'Lato', sans-serif;
 	  background-image: url('https://orangegnaro.github.io/set-up-test/assets/collage01.png');
 	  background-position: center top;
 	  background-size: cover;
 	  margin: 0;
 	}
-}
-.logo {height: 10px;
+
+.parent {
+	  display: flex;
+	}
+
+.logo {
+		height: 10px;
     width: 5px;
 		padding: 250px 0;
 		margin: 30px;
-}
+	}
 
 h1	{ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 font-size: 40px;
