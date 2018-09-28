@@ -4,21 +4,31 @@ body {
 	text-align: center;
 	width: 100%;
 }
-logo {height: 100px;
-    width: 80px;
+logo {height: 50px;
+    width: 25px;
 }
-h1 {
-	font-size: 32px;
+ /* h1 {
+	font-size: 40px;
 	color: orange;
 	font-family: Optima light, sans-serif;
-}
+}  */
 
 h2 {
 	font-size: 32px;
+	color: red;
+	font-family: Optima light, sans-serif;
 }
 
 
 .hero {
 	padding: 250px 0;
 	margin: 30px;
+}
+
+	h1	{ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+font-size: 40px;
+font-style: light;
+font-variant: normal; 
+font-weight: 700;
+line-height: 26.4px;
 }
