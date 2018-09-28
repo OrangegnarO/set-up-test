@@ -13,11 +13,7 @@ logo {height: 50px;
 	font-family: Optima light, sans-serif;
 }  */
 
-h2 {
-	font-size: 32px;
-	color: red;
-	font-family: Optima light, sans-serif;
-}
+
 
 
 .hero {
@@ -27,8 +23,19 @@ h2 {
 
 	h1	{ font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
 font-size: 40px;
-font-style: light;
-font-variant: normal; 
-font-weight: 700;
+font-style: normal;
+font-variant: normal;
+font-weight: 50;
 line-height: 26.4px;
+color: orange;
+}
+
+h2 {
+	font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+font-size: 32px;
+font-style: light;
+font-variant: normal;
+font-weight: 50;
+line-height: 26.4px;
+color: red;
 }
