@@ -7,6 +7,26 @@ body {
 logo {height: 50px;
     width: 25px;
 }
+
+h2 {font-family: Courier New, Arial, sans-serif;
+		font-size: 32px;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 50;
+		line-height: 26.4px;
+		color: red;
+}
+
+h3 {font-family: Palatino, Arial, sans-serif;
+		font-size: 32px;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 50;
+		line-height: 26.4px;
+		color: red;
+
+
+}
  /* h1 {
 	font-size: 40px;
 	color: orange;
@@ -28,13 +48,4 @@ font-variant: normal;
 font-weight: 50;
 line-height: 26.4px;
 color: orange;
-}
-
-h2 {font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
-		font-size: 32px;
-		font-style: normal;
-		font-variant: normal;
-		font-weight: 50;
-		line-height: 26.4px;
-		color: red;
 }
